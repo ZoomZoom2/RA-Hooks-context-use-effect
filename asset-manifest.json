@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RA-Hooks-context-use-effect/static/css/main.699d61bf.css",
+    "main.js": "/RA-Hooks-context-use-effect/static/js/main.5502935d.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Hooks-context-use-effect/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Hooks-context-use-effect/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/Ellipsis-1.3s.svg": "/RA-Hooks-context-use-effect/static/media/Ellipsis-1.3s.0c4d32abf80cf84827b5.svg",
+    "static/media/Radio-0.8s.svg": "/RA-Hooks-context-use-effect/static/media/Radio-0.8s.0a6a4a5482efe28e3947.svg",
+    "index.html": "/RA-Hooks-context-use-effect/index.html",
+    "main.699d61bf.css.map": "/RA-Hooks-context-use-effect/static/css/main.699d61bf.css.map",
+    "main.5502935d.js.map": "/RA-Hooks-context-use-effect/static/js/main.5502935d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.699d61bf.css",
+    "static/js/main.5502935d.js"
+  ]
+}
